@@ -14,7 +14,6 @@ Foi desenvolvido uma versão web e mobile que se integram a um backend.
 * [Tecnologias](#tecnologias)
 * [Autor](#autor)
 * [Licença](#licença)
-<br/>
 ___
 
 ### Status
